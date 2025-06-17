@@ -4,7 +4,7 @@
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
-    "allowjs":true,
+    "allowJs":true,
     "paths": {
       "@/*": [
         "src/*"
